@@ -1,0 +1,54 @@
+.rows{
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+
+}
+
+.body{
+margin-left:10px;
+margin-right: 10px;
+}
+
+.apps{
+  border-color: none;
+  background-color: white;
+  width:340px;
+  height: 100px;
+  margin: 15px 15px 0px 15px;
+  padding-left: 0px;
+  padding-right: 9px;
+  align-items: center;
+  border-radius: 10px;
+}
+
+img{
+  border-radius: 10px;
+  float: left;
+  margin-right: 10px;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+h4{
+  margin-top: 12px;
+  margin-bottom: 4px;
+}
+
+h5{
+  margin-top: 0px;
+}
+
+body{
+  background-color: grey;
+}
+
+@media(max-width:768px){
+  h4
+  {
+    padding-top:13px;
+
+  }
+
+}
